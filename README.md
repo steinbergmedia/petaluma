@@ -1,2 +1,2 @@
-# petaluma
-Petaluma music font, licensed under the SIL Open Font License
+# Petaluma
+Petaluma music font, licensed under the SIL Open Font License.
