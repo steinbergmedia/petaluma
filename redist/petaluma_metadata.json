@@ -1231,7 +1231,7 @@
 				-2.072
 			]
 		},
-		"accidentalQuarterToneSharpBusotti":{
+		"accidentalQuarterToneSharpBussotti":{
 			"bBoxNE":[
 				1.292608250072385,
 				1.616
@@ -1601,7 +1601,7 @@
 				-1.452
 			]
 		},
-		"accidentalThreeQuarterTonesSharpBusotti":{
+		"accidentalThreeQuarterTonesSharpBussotti":{
 			"bBoxNE":[
 				2.024,
 				1.764
@@ -18093,7 +18093,7 @@
 				-2.972
 			]
 		},
-		"accidentalQuarterToneSharpBusotti":{
+		"accidentalQuarterToneSharpBussotti":{
 			"cutOutNE":[
 				0.66,
 				0.812
@@ -18547,7 +18547,7 @@
 				-0.928
 			]
 		},
-		"accidentalThreeQuarterTonesSharpBusotti":{
+		"accidentalThreeQuarterTonesSharpBussotti":{
 			"cutOutNE":[
 				1.544,
 				0.868
